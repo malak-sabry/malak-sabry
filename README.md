@@ -7,7 +7,7 @@
 
 - Currently: Building meaningful projects, learning new technologies, and collaborating with other developers  
 - Focused on: **Creating modern, accessible, and engaging web applications**  
-- Passionate about crafting **simple, bold, and enjoyable interfaces**  
+- Passionate about crafting **edtech, engaging medical software, and building products from idea to launch with a focus on delightful user experiences.**  
 - Role: Experienced **Full-Stack Developer** exploring new challenges and tools
 - Personal portfolio: [itsmalak.me](https://itsmalak.me/)  
 - Reach me at: **malaksabry367@gmail.com**  
