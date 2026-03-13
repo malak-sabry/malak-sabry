@@ -117,7 +117,7 @@
 
 ### GitHub Stats 
 
-<p align="center">
+<p align="start">
   <img src="https://github-readme-stats.vercel.app/api?username=malak-sabry-104&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </p>
 
