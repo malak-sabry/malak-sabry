@@ -1,7 +1,7 @@
 # Malak Sabry Mohamed
 High School Student | Full-Stack Developer
 
-I create modern, accessible web applications with a focus on **edtech and medical software**. I enjoy taking projects from **idea to launch**, exploring new technologies, and collaborating with other developers to build meaningful experiences.
+I create modern, accessible web applications with a focus on **edtech and medical softwares**. I enjoy taking projects from **idea to launch**, exploring new technologies, and collaborating with other developers to build meaningful experiences.
 
 - **Portfolio:** [itsmalak.me](https://itsmalak.me/)
 - **Email:** malaksabry367@gmail.com
