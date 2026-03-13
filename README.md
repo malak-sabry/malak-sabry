@@ -11,3 +11,22 @@ I create modern, accessible web applications with a focus on **edtech and medica
 
 ### Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Malak%20Sabry-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/malak-sabry-muhammad440221)
+
+---
+
+### Tech Stack
+
+#### Frontend
+React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap, Figma  
+
+#### Backend
+Node.js, Express.js, PHP, Laravel, MySQL, SQLite  
+
+#### Mobile / Other
+Dart (Flutter), Python, Photoshop, Illustrator  
+
+---
+
+### GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=malak-sabry-104&show_icons=true&theme=radical&hide_border=true)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=malak-sabry-104&layout=compact&theme=radical&hide_border=true)
