@@ -17,9 +17,9 @@ I create modern, accessible web applications with a focus on **edtech and medica
 ### Tech Stack
 
 **Frontend:**  
-React, TypeScript, JavaScript, HTML5, CSS3, Tailwind CSS, Bootstrap  
+React, TypeScript/JavaScript, Tailwind CSS, Bootstrap  
 
 **Backend & Databases:**  
-Node.js, Express.js, PHP, Laravel, MySQL, SQLite, Supabase  
+Express.js, PHP, Laravel, MySQL/SQLite, Supabase  
 
 
